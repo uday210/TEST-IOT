@@ -27,8 +27,8 @@ String deviceIp = "";
 const char * sfLoginFingerprint = "BB:0C:5C:8A:78:79:D2:38:E6:F7:4C:13:FC:75:8D:93:87:67:18:75";
 const char * sfInstanceFingerprint = "FF:BD:AD:C3:06:EA:EE:CC:72:D7:73:DB:C8:75:82:1C:45:37:D0:5A";
 //eifi credentials
-const char * ssid = "nacho-suite_2.5g";
-const char * password = "333WafflePickleTomatoTomatoChickenPotPie";
+const char * ssid = "XXXXXXXXX";
+const char * password = "XXXXXXX";
 
 // MQTT Broker
 const char * mqtt_broker = "driver.cloudmqtt.com";
