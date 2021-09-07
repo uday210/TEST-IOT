@@ -37,8 +37,8 @@ const char * topiclive = "livedata";
 const char * topiclivestatus = "livestatus";
 const char * topicslider = "slider";
 const char * topiccasestaus = "casestatus";
-const char * mqtt_username = "qvuhnrmt";
-const char * mqtt_password = "4zQchS5ljNJU";
+const char * mqtt_username = "XXXXX";
+const char * mqtt_password = "XXXXX";
 const int mqtt_port = 18923;
 
 int button = D5;
